@@ -1,0 +1,15 @@
+---
+object: set
+id: ff250c63-a900-4154-8b39-0bdeb03edabc
+code: l13
+name: League Tokens 2013
+uri: https://api.scryfall.com/sets/ff250c63-a900-4154-8b39-0bdeb03edabc
+scryfall_uri: https://scryfall.com/sets/l13
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Al13&unique=prints
+released_at: '2013-01-01'
+set_type: token
+card_count: 4
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
